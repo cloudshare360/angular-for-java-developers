@@ -15,12 +15,12 @@
 
 - angular-for-java-developers
   - Part 1
-    - [<span style="color:blue; text-decoration:underline">Creating a Simple Angular App</span>](https://livevideo.manning.com/module/114_1_1/angular-for-java-developers-creating-a-simple-angular-app/introduction/introduction)   
+    - <a href="https://livevideo.manning.com/module/114_1_1/angular-for-java-developers-creating-a-simple-angular-app/introduction/introduction"  target="_blank" rel="noopener noreferrer">Creating a Simple Angular App</a>
   - Part 2
-    - [<span style="color:blue; text-decoration:underline">Angular with TypeScript</span>](https://www.manning.com/livevideo/angular-for-java-developers-typescript)   
+    - <a href="https://www.manning.com/livevideo/angular-for-java-developers-typescript"  target="_blank" rel="noopener noreferrer">Angular with TypeScript</a>
   - Part 3
-    - [<span style="color:blue; text-decoration:underline">Building a Real Site with Angular</span>](https://www.manning.com/livevideo/angular-for-java-developers-building-a-real-site)   
+    - <a href="https://www.manning.com/livevideo/angular-for-java-developers-building-a-real-site"  target="_blank" rel="noopener noreferrer">Building a Real Site with Angular</a>
   - Part 4
-    - [<span style="color:blue; text-decoration:underline">Connecting Angular to a REST Back End</span>](https://www.manning.com/livevideo/angular-for-java-developers-connecting-to-a-rest-back-end)   
+    - <a href="https://www.manning.com/livevideo/angular-for-java-developers-connecting-to-a-rest-back-end"  target="_blank" rel="noopener noreferrer">Connecting Angular to a REST Back End</a>
   - Part 5
-    - [<span style="color:blue; text-decoration:underline">Angular Security and Deployment</span>](https://www.manning.com/livevideo/angular-for-java-developers-security-and-deployment) 
+    - <a href="https://www.manning.com/livevideo/angular-for-java-developers-security-and-deployment"  target="_blank" rel="noopener noreferrer">Angular Security and Deployment</a>
