@@ -6,7 +6,7 @@
   - Part 2
     - [Angular with TypeScript](https://www.manning.com/livevideo/angular-for-java-developers-typescript)
   - Part 3
-   - [Building a Real Site with Angular](https://www.manning.com/livevideo/angular-for-java-developers-building-a-real-site)
+    - [Building a Real Site with Angular](https://www.manning.com/livevideo/angular-for-java-developers-building-a-real-site)
   - Part 4
     - [Connecting Angular to a REST Back End](https://www.manning.com/livevideo/angular-for-java-developers-connecting-to-a-rest-back-end)
   - Part 5
