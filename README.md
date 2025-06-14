@@ -2,7 +2,7 @@
 
 - angular-for-java-developers
   - Part 1
-    - [Creating a Simple Angular App]((https://livevideo.manning.com/module/114_1_1/angular-for-java-developers-creating-a-simple-angular-app/introduction/introduction)
+    - [Creating a Simple Angular App](https://livevideo.manning.com/module/114_1_1/angular-for-java-developers-creating-a-simple-angular-app/introduction/introduction)
   - Part 2
     - [Angular with TypeScript](https://www.manning.com/livevideo/angular-for-java-developers-typescript)
   - Part 3
